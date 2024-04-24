@@ -1,0 +1,41 @@
+@import "spacing.scss";
+
+$site-default-font-family: "Outfit", sans-serif;
+$site-alt-font-family: "Tenor Sans", sans-serif;
+$site-default-font-size: 18px;
+$site-default-mobile-font-size: 16px;
+$site-regular: 400;
+$site-bold: 900;
+$material-icons: "Material Icons";
+
+// common colors
+$site-text-color: #212121;
+$site-background-color: #fff;
+
+$error-color: red;
+
+$link-color: blue;
+$link-color-hover: blue;
+$link-color-focus: blue;
+$link-color-active: blue;
+
+// buttons
+$button-color: blue;
+$button-contained-color-hover: blue;
+$button-contained-color-focus: blue;
+$button-outlined-color-hover: transparent;
+$button-outlined-color-focus: transparent;
+$button-outlined-border-color-hover: blue;
+$button-outlined-border-color-focus: blue;
+$button-text-color-hover: blue;
+$button-text-color-focus: blue;
+$button-outlined-border-color-active: blue;
+$button-background-color-disabled: #f5f5f5;
+$button-color-disabled: #bdbdbd;
+
+// responsive breakpoints
+$breakpoint-xs-down: 320px;
+$breakpoint-xs-up: 599px;
+$breakpoint-sm-down: 600px;
+$breakpoint-sm-up: 899px;
+$breakpoint-md-down: 900px;
